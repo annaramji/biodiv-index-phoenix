@@ -23,7 +23,8 @@ United States Census Bureau. (2022). *Arizona County Subdivision 2022 TIGER/Line
 
 1. Levitt, Z., &amp; Eng, J. (2021, August 11). *Where America’s developed areas are growing: 'Way off into the horizon’*. The Washington Post. https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/
 2. Mazzarello, J., &amp Hyde, S. (2022, August). *Global 100m Projections of Biodiversity Intactness for the years 2017-2020*. [Technical White Paper]. Impact Observatory, Vizzuality.
-3. 
+3. Microsoft Planetary Computer, STAC Catalog. Biodiversity Intactness (*'io-biodiversity'*). [Dataset].  https://planetarycomputer.microsoft.com/dataset/io-biodiversity Accessed 6 December 2023.
+
 
 
 
