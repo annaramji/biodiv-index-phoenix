@@ -1,5 +1,6 @@
 # Investigating Biodiversity Intactness in the Phoenix metropolitan area
 ![bii-image](figures/bii-image.png)
+Image credits: Global 100m Projections of Biodiversity Intactness for the years 2017-2020 [Technical Whitepaper](https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf)
 ### Context & Purpose
 
 In 2021, Maricopa County, which encompasses the Phoenix metropolitan area, was the US county that added the most developed land since 2001 [1](https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/). Urban sprawl creates pressure on biodiversity and natural areas.
