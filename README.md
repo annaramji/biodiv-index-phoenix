@@ -7,6 +7,26 @@ In 2021, Maricopa County, which encompasses the Phoenix metropolitan area, was t
 This repository contains a Python notebook with data exploration and analysis into the change in Biodiversity Intactness in the Phoenix metropolitan area in 2017 and 2020. I explore a dataset showing values for biodiversity intactness index (BII) [2](https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf), [3](https://planetarycomputer.microsoft.com/dataset/io-biodiversity) to find changes in this BII around the Phoenix area from 2017 to 2020.
 
 
+### Repository Structure
+
+```bash
+├── LICENSE
+├── README.md
+├── biodiversity_index_phoenix.ipynb  # primary analysis notebook
+├── data
+│   ├── tl_2022_04_cousub.cpg
+│   ├── tl_2022_04_cousub.dbf
+│   ├── tl_2022_04_cousub.prj
+│   ├── tl_2022_04_cousub.shp
+│   ├── tl_2022_04_cousub.shp.ea.iso.xml
+│   ├── tl_2022_04_cousub.shp.iso.xml
+│   └── tl_2022_04_cousub.shx
+└── figures
+    ├── bii_phoenix_final.png
+    └── phoenix_county.png
+```
+
+
 
 ### Data Citation
 
